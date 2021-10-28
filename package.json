@@ -1,0 +1,23 @@
+{
+  "name": "repo-b",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdamXA/repo-b.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdamXA/repo-b/issues"
+  },
+  "homepage": "https://github.com/AdamXA/repo-b#readme",
+  "devDependencies": {
+    "typescript": "^4.4.4"
+  }
+}
